@@ -1,0 +1,19 @@
+# Lean
+build/
+lake-packages/
+.lake/
+lakefile.olean
+
+# macOS
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+
+# Build artifacts
+*.o
+*.so
+*.dylib
